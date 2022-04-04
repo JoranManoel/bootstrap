@@ -1,0 +1,22 @@
+body{
+    font: 20px Arial sans-serif;
+}
+.navbar {
+    background-color: #35BBE2 ;
+}
+.quem-somos{
+    background-color: aliceblue ;
+}
+.parceiros{
+    background-color: #C2E5EF ;
+}
+.margin{
+    padding-top: 10px   ;
+    padding-bottom: 50px;
+}
+.bg-footer{
+    background-color: black;
+    color: blanchedalmond;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
